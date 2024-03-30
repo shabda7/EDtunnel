@@ -864,8 +864,8 @@ function createVLESSSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
-	'tamin.ir,
-	'www.tcetmc.com,
-	'asiatech.ir,
-	'zula.ir
+	'tamin.ir',
+	'www.tcetmc.com',
+	'asiatech.ir',
+	'zula.ir'
 ];
